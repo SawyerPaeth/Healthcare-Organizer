@@ -1,1 +1,1 @@
-# CS340 project
+# Healthcare Organizer
